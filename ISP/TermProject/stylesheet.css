@@ -1,0 +1,16 @@
+#userTable
+{
+	background-color : lightblue;
+	border : 1px solid black;
+}
+
+#userTable td
+{
+	border : 1px solid black;
+	padding: 1 1 1 1 ;
+}
+#userTable th
+{
+	border : 1px solid black;
+	padding: 1 1 1 1 ;
+}
